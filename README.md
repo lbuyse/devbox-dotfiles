@@ -1,2 +1,2 @@
 # devbox-dotfiles
-dotfiles config for the cibg devbox
+Personal lbuyse dotfiles config for the cibg devbox.
