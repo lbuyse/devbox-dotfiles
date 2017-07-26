@@ -1,3 +1,3 @@
 function sshi () {
-	ssh -A -i ~/.ssh/cirb_rsa lbuyse@$1
+	TERM=xterm ssh -A -i ~/.ssh/cirb_rsa lbuyse@$1
 }
